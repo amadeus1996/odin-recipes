@@ -1,0 +1,30 @@
+* {
+    font-family: 'Times New Roman', Helvetica, monospace;
+}
+
+body {
+    text-align: center;
+}
+
+.header {
+    background-color: #acdab2;
+    font-size: 40px;
+}
+
+.image {
+    height: 750px;
+    width: 1920px;
+    margin-top: 50px;
+}
+
+.button {
+    text-decoration: none; 
+    background-color: #368dd4;
+    color: white;
+
+    font-size: 20px;
+    padding: 14px 32px;
+    display: inline-block;
+    border-radius: 15px;
+}
+

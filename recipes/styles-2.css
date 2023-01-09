@@ -1,0 +1,52 @@
+* {
+    font-family: Helvetica, 'Times New Roman', monospace;
+}
+
+#falafel {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    height: 400px;
+    width: 1250px;
+}
+
+h1 {
+    background-color: #78a6d1;
+    color: #ffffff; 
+
+    text-align: center;
+
+    font-size: 50px;
+    font-style: italic; 
+}
+
+h2, h3 {
+    background-color: #77cfb5;
+    color: #ffffff;
+
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+
+    padding: 5px;
+    text-align: center;
+}
+
+.intro {
+    font-style: oblique;
+    font-size: 17px;
+}
+
+.button {
+    text-decoration: none;
+
+    color: #000000;
+    background-color: #c5df33;
+
+    padding: 8px;
+    border-radius: 10px;
+    
+    font-size: 15px;
+    font-weight: bold;
+}
